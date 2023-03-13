@@ -1,0 +1,41 @@
+{
+    "type": "FeatureCollection",
+    "name": "alert",
+    "features": [
+    { "type": "Feature", 
+        "properties": 
+        { 
+            "nama_lembaga": "Aliansi Lestari Rimba Terpadu (ALeRT)",
+                "isu": "Konservasi Badak",
+                "wilayah_kegiatan": "TN Gunung Leuseur ",
+                 "tahun": "2009",
+                  "negara": "Nasional"
+            }, 
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7741987, 
+                    97.2430116
+                ]
+              }
+            },
+            { "type": "Feature", 
+                "properties": 
+                { 
+                    "nama_lembaga": "Aliansi Lestari Rimba Terpadu (ALeRT)",
+                        "isu": "Konservasi Badak",
+                        "wilayah_kegiatan": "TN Way Kambas",
+                        "tahun": "2009",
+                  "negara": "Nasional"
+                    }, 
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -4.9277497, 
+                            105.7768061
+                        ]
+                      }
+                    }
+        ]
+    }
+    
